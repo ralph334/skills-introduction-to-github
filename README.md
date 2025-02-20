@@ -12,6 +12,8 @@
 _Get started using GitHub in less than an hour._
 
 </header>
+# Mein erstes GitHub-Repository 🎉
+Ich lerne gerade, wie man GitHub benutzt!
 
 <!--
   <<< Author notes: Course start >>>
